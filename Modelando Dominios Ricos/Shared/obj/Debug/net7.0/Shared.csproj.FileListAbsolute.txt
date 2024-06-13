@@ -1,0 +1,12 @@
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\bin\Debug\net7.0\Shared.dll
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\bin\Debug\net7.0\Shared.pdb
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\obj\Debug\net7.0\Shared.csproj.AssemblyReference.cache
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\obj\Debug\net7.0\Shared.dll
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\obj\Debug\net7.0\Shared.pdb
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Shared\obj\Debug\net7.0\ref\Shared.dll
