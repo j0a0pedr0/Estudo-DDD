@@ -1,4 +1,5 @@
 ﻿using Domain.Entities;
+using Domain.ValueObjects;
 
 namespace Tests.Entities 
 {
@@ -9,12 +10,12 @@ namespace Tests.Entities
         public void AddSubscription()
         {
 
-            var subscription = new Subscription(null);
-            var student = new Student("André","Baltieri","31231234124","Hello@balta.io");
+/*            var name = new Name("João Pedro", "Aves");
 
-            student.AddSubscription(subscription);
+            foreach (var not in name.Notifications)
+            {
 
-
+            }*/
         }
     }
 

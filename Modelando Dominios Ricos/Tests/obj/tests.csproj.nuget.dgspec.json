@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\tests.csproj": {}
+    "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\Tests.csproj": {}
   },
   "projects": {
     "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Domain\\Domain.csproj": {
@@ -48,6 +48,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -108,6 +114,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -128,12 +140,12 @@
         }
       }
     },
-    "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\tests.csproj": {
+    "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\tests.csproj",
-        "projectName": "tests",
-        "projectPath": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\tests.csproj",
+        "projectUniqueName": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\obj\\",
         "projectStyle": "PackageReference",
@@ -191,6 +203,10 @@
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.2.0, )"
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.2, )"
             }
           },
           "imports": [
