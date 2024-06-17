@@ -102,3 +102,4 @@ C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Tests\bin\Debug\net7.0\
 C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Tests\bin\Debug\net7.0\Shared.dll
 C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Tests\bin\Debug\net7.0\Shared.pdb
 C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Tests\bin\Debug\net7.0\Domain.pdb
+C:\dev\Estudo-DotnetC#\2024\DDD\Modelando Dominios Ricos\Tests\bin\Debug\net7.0\Flunt.dll

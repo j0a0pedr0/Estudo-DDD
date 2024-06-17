@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jkdnuK8FOfmWz+HGolN4KpojP2pSa6ldwcd7HloZWrxCFaEKW6yVYvfriEuaP6H9JMfTCswZK2q7VMkEcz0JuQ==",
+  "dgSpecHash": "HF2Z2kevbgkJ2iKKfOV+tBPNkCv1VzXB27/6ZlAcdwzBa+jA8+oIScKoYqs5yVwkXUJ+3T9Sw4LrACnozzV8Qw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samsung\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\samsung\\.nuget\\packages\\flunt\\1.0.2\\flunt.1.0.2.nupkg.sha512",

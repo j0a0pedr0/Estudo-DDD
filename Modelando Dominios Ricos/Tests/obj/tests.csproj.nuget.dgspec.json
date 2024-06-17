@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\Tests.csproj": {}
+    "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\tests.csproj": {}
   },
   "projects": {
     "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Domain\\Domain.csproj": {
@@ -140,12 +140,12 @@
         }
       }
     },
-    "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\Tests.csproj": {
+    "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\Tests.csproj",
-        "projectName": "Tests",
-        "projectPath": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\tests.csproj",
+        "projectName": "tests",
+        "projectPath": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\tests.csproj",
         "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Estudo-DotnetC#\\2024\\DDD\\Modelando Dominios Ricos\\Tests\\obj\\",
         "projectStyle": "PackageReference",

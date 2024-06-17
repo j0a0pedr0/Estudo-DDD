@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Domain.ValueObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -18,9 +20,9 @@ namespace Domain.Entities
             decimal total, 
             decimal totalPaid, 
             string payer, 
-            string document, 
-            string address, 
-            string email) : base (
+            Documentt document, 
+            Address address, 
+            Email email) : base (
                 paidDate, 
                 expireDate, 
                 total, 
